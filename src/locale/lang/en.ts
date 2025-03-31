@@ -5,7 +5,7 @@ export default {
     password: 'Password',
     forget: 'Forget password',
     welcome: 'WELCOME TO',
-    name: 'BHG WEALTH',
+    name: 'Infinity Alpha',
     privacy: 'Privacy Policies',
     recovery: 'Password Recovery',
     info: 'Verify information',
@@ -38,11 +38,11 @@ export default {
   },
   club: {
     title: 'Wealth Club',
-    title2: 'The BHG Wealth Club',
-    text: 'is a platform for investment services, education and communication initiated by BHG Wealth. Its membership is comprised of investors and partners of BHG Wealth, with the primary objective of providing members with the resources and tools necessary to enhance their understanding of the investment market, access investment opportunities, and engage in financial planning, as well as to enjoy a high-quality lifestyle. The core mission of the BHG Wealth Club is to promote financial literacy among its members through a diverse range of learning opportunities. The club offers various investment education resources, including online courses, research reports, and market analysis, to facilitate members’ comprehension of investment products and market trends. Furthermore, the club regularly organizes events such as visits, seminars, and workshops to foster collaboration and interaction between members. Additionally, the BHG Wealth Club provides members with high-quality investment opportunities, such as diverse investment products and quality projects, to assist them in achieving effective investment returns. Simultaneously, the club arranges social and recreational activities to enhance the quality of life of its members. The BHG Wealth Club prioritizes social responsibility, as evidenced by its active engagement in a variety of philanthropic activities, emphasizing the importance of financial benevolence and supporting the community. In summary, the BHG Wealth Club is a premier organization dedicated to providing a comprehensive platform for investment services, education, and communication to its members. By enhancing their financial literacy, providing access to superior investment opportunities, and facilitating an enhanced quality of life, the club empowers its members to manage their financial affairs effectively and achieve their investment objectives.',
+    title2: 'The Infinity Alpha Club',
+    text: 'is a platform for investment services, education and communication initiated by Infinity Alpha. Its membership is comprised of investors and partners of Infinity Alpha, with the primary objective of providing members with the resources and tools necessary to enhance their understanding of the investment market, access investment opportunities, and engage in financial planning, as well as to enjoy a high-quality lifestyle. The core mission of the Infinity Alpha Club is to promote financial literacy among its members through a diverse range of learning opportunities. The club offers various investment education resources, including online courses, research reports, and market analysis, to facilitate members’ comprehension of investment products and market trends. Furthermore, the club regularly organizes events such as visits, seminars, and workshops to foster collaboration and interaction between members. Additionally, the Infinity Alpha Club provides members with high-quality investment opportunities, such as diverse investment products and quality projects, to assist them in achieving effective investment returns. Simultaneously, the club arranges social and recreational activities to enhance the quality of life of its members. The Infinity Alpha Club prioritizes social responsibility, as evidenced by its active engagement in a variety of philanthropic activities, emphasizing the importance of financial benevolence and supporting the community. In summary, the Infinity Alpha Club is a premier organization dedicated to providing a comprehensive platform for investment services, education, and communication to its members. By enhancing their financial literacy, providing access to superior investment opportunities, and facilitating an enhanced quality of life, the club empowers its members to manage their financial affairs effectively and achieve their investment objectives.',
     member: 'Member Benefits',
     text2: 'The highest priority right to know and investment opportunities for investment projects',
-    text3: `Participate in BHG's monthly afternoon tea event for free`,
+    text3: `Participate in Infinity Alpha's monthly afternoon tea event for free`,
     text4: `Free participation in Beaver's annual dinner celebration`,
     text5: `Free participation in Beaver's project launch and closing dinner celebration`,
     text6: `Free access to insights shared by industry elites`,
@@ -87,15 +87,15 @@ export default {
     private27: 'We may update this Privacy Policy to reflect changes in our practices. Please review it periodically.',
     private28: 'Contact Us',
     private29: 'If you have questions or concerns about our privacy practices, please contact us at',
-    private30: `operations@bhgglobal.com.au`
+    private30: `operations@infinityalpha.com.au`
   },
   term: {
     term1: 'Term & Conditions',
     term2: 'Term & Conditions',
     term3: 'Last Updated',
     term4: 'Disclaimer',
-    term5: `This website is owned and operated by BHG Global Pty Ltd (ACN 652 514 184) and BHG One (AFSL 306534)
-                (“BHG”). The use of this website is subject to the following disclosures and declarations (the “Terms”).
+    term5: `This website is owned and operated by INFINITY ALPHA FUNDS MANAGEMENT PTY LTD (ABN 82 650 954 279)
+                (“Infinity Alpha”). The use of this website is subject to the following disclosures and declarations (the “Terms”).
                 After you have read and understood these Terms, you may click “I Agree” to confirm that you agree to the
                 Terms which create a binding legal agreement between us. If you do not agree to these Terms, please
                 refrain from using this website.`,
@@ -111,12 +111,12 @@ export default {
                 should obtain investment and taxation advice specific to your investment objectives, financial situation
                 and particular needs before making any investment decision.`,
     term12: 'Accuracy of information and limitation of liability',
-    term13: `The material on this website is made available in good faith by BHG Global and has been derived from
-                sources believed by BHG Global to be reliable and accurate at the date of publication. BHG Global assumes
+    term13: `The material on this website is made available in good faith by Infinity Alpha Global and has been derived from
+                sources believed by Infinity Alpha Global to be reliable and accurate at the date of publication. Infinity Alpha Global assumes
                 no responsibility for updating any information contained in this material or for correcting any error or
                 omission, which may become apparent after the material was first issued.`,
-    term14: `BHG Global does not give any warranty as to the accuracy, reliability or completeness of this website.
-                BHG Global and its directors, employees, agents, consultants and related bodies corporate do not accept
+    term14: `Infinity Alpha Global does not give any warranty as to the accuracy, reliability or completeness of this website.
+                Infinity Alpha Global and its directors, employees, agents, consultants and related bodies corporate do not accept
                 any liability for any error or omission in this material or for any resulting loss or damage (whether
                 direct, indirect, consequential or otherwise) suffered by any user of this website or any other person.`,
     term15: 'Australian Residents',
@@ -132,14 +132,14 @@ export default {
                 responsible entity of the fund.`,
     term20: `The offer of units in any managed investment scheme is only available to persons receiving an electronic
                 or hard copy of the relevant offer document in Australia.`,
-    term21: `BHG Global or the responsible entity of the fund nor any other person guarantees the performance of the
+    term21: `Infinity Alpha Global or the responsible entity of the fund nor any other person guarantees the performance of the
                 managed investment schemes mentioned on this website. Investments in the managed investment scheme are
                 subject to investment risk, which may include loss of income or capital invested. Neither the repayment of
-                capital nor the investment performance of any managed investment schemes is guaranteed by BHG Global or
+                capital nor the investment performance of any managed investment schemes is guaranteed by Infinity Alpha Global or
                 the responsible entity of the fund. Past performance is not a reliable indicator of future performance.`,
     term22: 'Copyright',
-    term23: `Unless otherwise stated, copyright in the material reproduced on this website is owned by BHG Global.
-                Except with the prior written consent of BHG Global or otherwise permitted by law, the material may not be
+    term23: `Unless otherwise stated, copyright in the material reproduced on this website is owned by Infinity Alpha Global.
+                Except with the prior written consent of Infinity Alpha Global or otherwise permitted by law, the material may not be
                 reproduced or displayed in public and may not be linked to, distributed or transmitted electronically to
                 any other person or incorporated by any means into another document or material, including other websites.`,
     term24: 'agree'
@@ -148,8 +148,8 @@ export default {
     home1: 'Popular',
     home2: 'All Product',
     home3: 'ALL',
-    home4: 'BC Debt Opportunities Funds',
-    home5: 'BHG Debt Income Master Funds',
+    home4: 'IC Debt Opportunities Funds',
+    home5: 'Infinity Alpha Debt Income Master Funds',
     home6: 'Now',
     home7: 'Open',
     home8: 'Fully',
@@ -275,10 +275,10 @@ export default {
     me4: 'Submission',
     me5: 'Notifications',
     me6: 'Contact Us',
-    me7: 'About BHG Wealth',
+    me7: 'About Infinity Alpha',
     me21: 'Real-Name Verification',
     me8: 'Privacy policies',
-    me9: 'Share BHG Wealth',
+    me9: 'Share Infinity Alpha',
     me10: 'Change password',
     me11: 'System setting',
     me12: 'Log out',
@@ -314,22 +314,22 @@ export default {
     notification4: 'Mark as read'
   },
   about: {
-    about1: 'BHG Wealth',
+    about1: 'Infinity Alpha',
     about2: 'Our Story',
-    about3: `BHG One(AFSL: 306534) has been working closely with clients to provide investment solutions to meet their
+    about3: `Infinity Alpha has been working closely with clients to provide investment solutions to meet their
           challenges since it was founded in 2006.`,
     about4: `The lead members of the team have participated in and led several large-scale real estate development projects
           in the centre of Sydney, and other landmark projects in agribusiness, health care and mining with a
           transaction volume of more than 1 billion Australian dollars.`,
     about5: 'Why Partner with Us',
     about6: 'Full Suite of Support',
-    about7: `BHG has built our reputation on success from the effort of our professional teams. We provide our partner with
+    about7: `Infinity Alpha has built our reputation on success from the effort of our professional teams. We provide our partner with
         support further than financial backing, through industry data-driven analysis and systems, and a team of
         talented professionals who offer a full suite of corporate services including distribution, client services,
         marketing, compliance, finance, HR, technology and administrative support.`,
     about8: 'Achieve Win-Win',
-    about9: `BHG achieve our goals in identifying and partnering with high calibre boutique asset managers, and offering
-        high-grade funds to our clients. It is BHG’s vision to be recognised and respected for partnering with high
+    about9: `Infinity Alpha achieve our goals in identifying and partnering with high calibre boutique asset managers, and offering
+        high-grade funds to our clients. It is Infinity Alpha’s vision to be recognised and respected for partnering with high
         performance boutiques, we focus on growing their business for the benefit of investors.`,
     about10: 'Contact Us',
     about11: 'Email',
