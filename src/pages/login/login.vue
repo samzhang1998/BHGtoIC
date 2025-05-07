@@ -183,7 +183,7 @@ async function getInfo() {
       </view>
     </view>
     <view class="logo">
-      <image class="bg" src="../../static/images/logo.png"></image>
+      <image class="bg" src="../../static/images/ic.png"></image>
       <view class="text">{{ $t('login.welcome') }}</view>
       <view class="text">{{ $t('login.name') }}</view>
     </view>

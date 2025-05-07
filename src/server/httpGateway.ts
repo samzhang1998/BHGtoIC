@@ -1,10 +1,14 @@
-import { wrapperEnv } from '@/utils/env'
+// import { wrapperEnv } from '@/utils/env'
 import { showLoading, hideLoading } from './serviceLoading'
 import { getCommonParams } from './commonParams'
 import interceptorData from './interceptors'
 import { useUser } from '@/hooks/useUser'
 
-const { VITE_APP_BASE_URL } = wrapperEnv
+// const wrapperEnv = import.meta.env
+
+// const { VITE_APP_BASE_URL } = import.meta.env
+const VITE_APP_BASE_URL = 'http://54.252.157.159:8002'
+// console.log('VITE_APP_BASE_URL', VITE_APP_BASE_URL)
 const { resetToken } = useUser()
 
 const httpRequestGateway = <T>(
@@ -15,6 +19,12 @@ const httpRequestGateway = <T>(
 ): Promise<[any, FcResponse<T> | undefined]> => {
   return new Promise((resolve) => {
     showLoading()
+    // console.log('query', query)
+    // console.log('headersMethod', headersMethod)
+    // console.log('method', method)
+    // console.log('url', `${VITE_APP_BASE_URL}${headersMethod}`)
+    // console.log(import.meta.env.MODE);
+    // console.log(import.meta.env); // Shows all injected variables
 
     /**
      * @description 成功回调方法
@@ -66,6 +76,7 @@ const httpRequestGateway = <T>(
       fail: appNetworkResponseReject,
       complete: appNetworkResponseComplete
     })
+    
   })
 }
 

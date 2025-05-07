@@ -685,18 +685,18 @@ const numberChange = (e: any) => {
         <view class="title p-b-40">BC FIRST Trust Application Form</view>
         <view class="text p-b-40">The Application Form should be completed and returned to:</view>
         <view class="text2 p-b-10">Operations</view>
-        <view class="text2 p-b-10">BHG Global</view>
-        <view class="text2 p-b-10">Suite 1001B, 53 Walker St, North Sydney NSW 2060</view>
+        <view class="text2 p-b-10">Infinity Alpha</view>
+        <view class="text2 p-b-10">example, North Sydney NSW 2060</view>
         <view class="text2 p-b-40">
           (or emailed to
-          <text class="text-blue">operations@bhgglobal.com.au</text>
+          <text class="text-blue">operations@infinityalpha.com.au</text>
           with the original to follow in the mail)
         </view>
         <view class="text p-b-40">
           This Application Form is distributed together with the Supplementary Information Memorandum dated 19 July 2024
           (<text class="text-bold">Information Memorandum</text>) for
           {{ !lang ? fundInfo?.nameCN || fundInfo?.name : fundInfo?.name }}. The trustee for
-          {{ !lang ? fundInfo?.nameCN || fundInfo?.name : fundInfo?.name }} is BHG One Pty Ltd (<text class="text-bold"
+          {{ !lang ? fundInfo?.nameCN || fundInfo?.name : fundInfo?.name }} is IC Pty Ltd (<text class="text-bold"
             >Trustee</text
           >). {{ !lang ? fundInfo?.nameCN || fundInfo?.name : fundInfo?.name }} will invest in a loan to Sunshine
           Contracting Group Pty Ltd (ACN 629 078 486) (the <text class="text-bold">SCG Loan</text>). This Application
@@ -912,7 +912,7 @@ const numberChange = (e: any) => {
         <view class="text p-b-40"
           >Monies paid in respect of an Application and any amount of application fee is paid to Perpetual Corporate
           Trust Limited’s bank account and upon the Application being accepted, the funds are transferred to the
-          relevant BHG Global trust account, with the application fee being paid to the Fund Manager.</view
+          relevant IC trust account, with the application fee being paid to the Fund Manager.</view
         >
         <view class="text p-b-40">
           Upon submitting this Application, please make a payment of the amount of the Total Subscription Amount to the
@@ -921,8 +921,8 @@ const numberChange = (e: any) => {
         <view class="flex p-b-40">
           <view class="text text-bold width-40">Full Account Name</view>
           <view class="width-60">
-            <view><text class="text-bold">BHG Debt</text> Income Master Fund ACC 105</view>
-            <view> (<text class="text-bold">Short Name:</text> BHG DIMF ACC 105)</view>
+            <view><text class="text-bold">IC Debt</text> Income Master Fund ACC 105</view>
+            <view> (<text class="text-bold">Short Name:</text> IC DIMF ACC 105)</view>
           </view>
         </view>
         <view class="flex p-b-40">
@@ -1010,7 +1010,7 @@ const numberChange = (e: any) => {
           return.
         </view>
         <view class="text p-b-40">
-          You agree to allow us to disclose your personal information to other companies in BHG Global as well as our
+          You agree to allow us to disclose your personal information to other companies in IC as well as our
           external service providers, which provide services in connection with our products and services.
         </view>
         <view class="text p-b-40"> We may also disclose your personal information: </view>
@@ -1020,7 +1020,7 @@ const numberChange = (e: any) => {
         <view class="text p-b-40">if you consent, or </view>
         <view class="text p-b-40"> to any party proposing to acquire an interest in our business.</view>
         <view class="text p-b-40">
-          Unless you tick the box below we and other companies in BHG Global may use your personal information to offer
+          Unless you tick the box below we and other companies in IC may use your personal information to offer
           you products or services that may be of interest to you.</view
         >
         <view class="text p-b-40">
@@ -1028,7 +1028,7 @@ const numberChange = (e: any) => {
         </view>
         <view class="text p-b-40">
           You can contact us to make such a request or for any other reason relating to the privacy of your personal
-          information by telephoning us on +1800 686 886 or writing to BHG One Pty Ltd of Suite 1001B, 53 Walker St,
+          information by telephoning us on +1800 686 886 or writing to IC Pty Ltd of Suite 1001B, 53 Walker St,
           North Sydney NSW 2060.
         </view>
         <view class="text p-b-40">
@@ -1147,8 +1147,8 @@ const numberChange = (e: any) => {
           The Applicant, whose full name and address appears above, hereby applies for the above specified number of
           Units in the Trust to be issued on the terms and conditions definitively set out in the Trust Deed, the key
           terms of which are set out in this Information Memorandum and a copy of which is available for inspection
-          during business hours by contacting BHG Global operations, whose details are set out below. Telephone +1800
-          686 886, or email to operations@bhgglobal.com.au.
+          during business hours by contacting IC operations, whose details are set out below. Telephone +1800
+          686 886, or email to operations@infinityalpha.com.au.
         </view>
       </view>
       <view class="item" v-if="pageType === 10">

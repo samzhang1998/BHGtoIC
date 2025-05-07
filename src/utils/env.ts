@@ -19,3 +19,18 @@ function wrapperEnvFn() {
 }
 
 export const wrapperEnv = wrapperEnvFn()()
+// export const wrapperEnv = () => {
+//   const env = import.meta.env
+//   const ret: Record<string, string | boolean | number> = {}
+
+//   for (const key in env) {
+//     let val: any = env[key]
+//     if (val === 'true') val = true
+//     else if (val === 'false') val = false
+//     else if (key === 'VITE_PORT') val = Number(val)
+
+//     ret[key] = val
+//   }
+
+//   return ret
+// }

@@ -163,7 +163,7 @@ provide(EntityKey, { eId: selectEntityId, info: selectEntityItem })
           <image class="icon" src="../../static/icon/edit2.png"></image>
         </view>
         <view class="name">{{ item.entityName }}</view>
-        <view class="bhg">BHG ID: {{ item.bhgId }}</view>
+        <view class="bhg">IC ID: {{ item.bhgId }}</view>
         <view class="include">
           {{ $t('inv.inv2') }}
           <text class="text-BE9670">{{ item.investmentCount || 0 }}</text>

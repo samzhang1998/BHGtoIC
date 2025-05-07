@@ -26,11 +26,11 @@ const handleDownImg = () => {
       </view>
       <view class="info">
         <view class="name">{{ $t('about.about11') }}</view>
-        <view class="text">Operations@bhgglobal.com.au</view>
+        <view class="text">Operations@infinityalpha.com.au</view>
         <view class="name">{{ $t('about.about12') }}</view>
         <view class="text">+1800 686 886</view>
         <view class="name">{{ $t('about.about13') }}</view>
-        <view class="text">1001B/ Level 10, 53 Walker Street North Sydney, NSW 2060 </view>
+        <view class="text">example, North Sydney, NSW 2060 </view>
         <view class="contact" @click="handleDownImg">
           <image class="code" :src="VITE_APP_CONTACT_URL" mode="widthFix"></image>
         </view>
